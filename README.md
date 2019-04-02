@@ -9,7 +9,7 @@ example:
 123 => seratus dua puluh tiga
 
 # Supported Language:
- - Indonesian
+ - Indonesia
  - English - US
 
 # Installation dan version
